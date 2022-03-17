@@ -1,2 +1,8 @@
 __pycache__/*
 __pycache__
+
+convert_results
+convert_results/*
+
+result.zip
+.DS_Store
