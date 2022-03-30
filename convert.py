@@ -1,5 +1,4 @@
 from io import BytesIO
-from re import I
 from typing import List
 from converter import clear_convert_results, convert_to_image, convert_to_midi, convert_to_musicxml
 from process_option_model import ProcessOptionModel
