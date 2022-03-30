@@ -35,7 +35,7 @@ def apply_option(stream: music21.stream.Stream,
 
 
 if __name__ == '__main__':
-    stream = musicxml_to_stream('./test-data/part0.musicxml')
+    stream = musicxml_to_stream('./test-data/180bpm.musicxml')
     option = ProcessOptionModel(
-        name="test", hands="both", start_measure=0, end_measure=4)
+        name="test", hands="both", start_measure=1, end_measure=4)
     stream = apply_option(stream, option)

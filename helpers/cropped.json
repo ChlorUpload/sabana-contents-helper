@@ -1,0 +1,17 @@
+[
+  { "name": "part0_1", "start_measure": 1, "end_measure": 4 },
+  { "name": "part0_2", "start_measure": 1, "end_measure": 8 },
+  { "name": "part1", "start_measure": 9, "end_measure": 16 },
+  { "name": "part2", "start_measure": 17, "end_measure": 24 },
+  { "name": "part3", "start_measure": 25, "end_measure": 32 },
+  { "name": "part4", "start_measure": 33, "end_measure": 38 },
+  { "name": "part5", "start_measure": 39, "end_measure": 46 },
+  { "name": "part6", "start_measure": 47, "end_measure": 54 },
+  { "name": "part7", "start_measure": 55, "end_measure": 62 },
+  { "name": "part8", "start_measure": 63, "end_measure": 70 },
+  { "name": "part9", "start_measure": 71, "end_measure": 76 },
+  { "name": "part10_1", "start_measure": 77, "end_measure": 80 },
+  { "name": "part10_2", "start_measure": 81, "end_measure": 84 },
+  { "name": "part10_3", "start_measure": 85, "end_measure": 91 },
+  { "name": "part10_4", "start_measure": 77, "end_measure": 91 }
+]

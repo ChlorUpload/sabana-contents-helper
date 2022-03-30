@@ -77,8 +77,8 @@ if __name__ == "__main__":
             part = 0
             for range in info:
                 part += 1
-                start = range["start"]
-                end = range["end"] + 1
+                start = range["start_measure"]
+                end = range["end_measure"]
                 options.append(ProcessOptionModel(
                     name=f"part{part}", start_measure=start, end_measure=end))
 
