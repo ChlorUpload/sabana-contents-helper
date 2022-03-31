@@ -14,6 +14,11 @@ class ConvertInfoModel(BaseModel):
     options: List[ProcessOptionModel]
 
 
+@app.get("/")
+def hello():
+    return "Hello!"
+
+
 @app.post("/convert")
 def convert_musicxml(convertInfo: ConvertInfoModel):
     title = convertInfo.title
