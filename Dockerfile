@@ -1,4 +1,5 @@
 FROM ubuntu:18.04
+EXPOSE 80
 
 WORKDIR /code
 
